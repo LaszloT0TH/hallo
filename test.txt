@@ -1,1 +1,1 @@
-Hallo, welcome to git tutorial
+Hallo, welcome to git tutorial. Módositás a txt-ben
